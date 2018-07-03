@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  text-align: center;
+}
+.game{
+  padding: 20px;
+}
+.rows{
+  display: flex;
+  text-align: center;
+}
+.colman{
+  border:1px solid #000000;
+}
+.matrix{
+  align-items: center
+}
+.cells{
+  font-size: 0%;
+}
+.cell{
+  cursor: pointer;
+  display : inline-block;
+  width : 20px;
+  height : 20px;
+  border : .1px solid black;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
