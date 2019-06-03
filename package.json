@@ -14,5 +14,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://wolfjawan.github.io/GameOfLife"
+  "homepage": "http://wolfjawan.github.io/GameOfLife"
 }
